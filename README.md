@@ -2,7 +2,7 @@
 
 학교 내 고양이 관리 정보 공유 및 고양이 사진 분류, 분석 안드로이드 애플리케이션
 
-주 개발 언어 : Kotlin, Tensor Flow
+주 개발 언어 : Kotlin, Tensor Flow  
 데이터베이스 : Firebase
 
 기능
